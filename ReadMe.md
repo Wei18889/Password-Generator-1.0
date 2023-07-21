@@ -16,6 +16,11 @@ In today's digital world, having strong and unique passwords is crucial for main
 
 ## Features
 
+
+<img width="912" alt="Screenshot 2023-07-20 at 11 59 02 PM" src="https://github.com/Wei18889/Password-Generator-1.0/assets/137247865/65fd1296-0bd0-4c5d-ba23-b5f94e708e87">
+
+
+
 - Generate random passwords with customizable length.
 - Include or exclude uppercase letters, lowercase letters, numbers, and symbols in the generated passwords.
 - Copy the generated password to the clipboard for easy use.
